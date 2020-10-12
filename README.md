@@ -1,0 +1,1 @@
+It is bad to use bmi as an excercise since it can trigger people with eating disorders. 
