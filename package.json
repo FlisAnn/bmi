@@ -1,0 +1,12 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "description": "a program that calculates weight",
+  "main": "index.js",
+  "repository": "https://github.com/FlisAnn/bmi.git",
+  "author": "flis_ann <ann.flismark@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^5.3.0"
+  }
+}
