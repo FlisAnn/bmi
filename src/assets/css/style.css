@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightblue;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+
+input[type="text"] {
+    padding: 8px 8px;
+    margin: 36px 0px;
+    box-sizing: border-box;
+    font-size: large;
+}
+
+button {
+    background-color: lightcoral;
+    padding: 8px 8px;
+    font-size: large;
+    border-radius: 20%;
+    font-weight: bold;
+}
+
+#result {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: white;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(37, 35, 35);
+}

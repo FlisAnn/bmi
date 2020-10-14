@@ -5,10 +5,10 @@ const calculateMetricBMI = (weight, height) => {
 }
 const getBMIClassification = (value) => {
     if (value < 18.5){
-        return "Underweight"
+        return "underweight"
     }else if(value < 25){
-        return "Healthy"
+        return "healthy"
     }else if(value < 30){
-        return "Overweight"
+        return "overweight"
     }
 }
